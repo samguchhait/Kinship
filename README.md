@@ -7,6 +7,7 @@
 - Uses breadth-first traversal to trace lineage and marriage paths.
 - Gender-aware relationship naming (e.g., "uncle" vs. "aunt").
 - Extensible via relationship path dictionary in `relationships.py`.
+- The program takes three required command-line arguments: a path to a JSON file of people and relationships (such as family.json) and two names from the JSON file.
 
 ## Input Format
 
