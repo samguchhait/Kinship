@@ -45,7 +45,7 @@ If no relationship is found:
 ## How to Run
 
 - Make sure you have Python 3.x installed.
-- No external libraries required (only argparse, re, and sys).
+- No external libraries required (only `argparse`, `re`, and `sys`).
 - Import the `relationships.py` file for relationships. 
 - My program is designed to run from the terminal.
 - To run it, open a terminal and ensure you are in the directory where your scripts and JSON file are saved.
